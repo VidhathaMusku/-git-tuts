@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 hi-devvv
-=======
 hi-devv
 hiii
->>>>>>> 85a434bcc84debc435c5090c0db11240f8135d3a
+dev-hi
